@@ -19,8 +19,8 @@ This small Python project demonstrates basic list operations including appending
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/oreoluwa212/python-02.git
-   cd python-02
+   git clone git remote add origin https://github.com/HSSamuel/python-week-two.git
+   cd python-week-two
    ```
 ````
 
